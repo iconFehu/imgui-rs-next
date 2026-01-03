@@ -4,3 +4,6 @@
 [submodule "third_party/imgui-rs"]
 	path = third_party/imgui-rs
 	url = https://github.com/iconFehu/imgui-rs.git
+[submodule "third_party/hudhook"]
+	path = third_party/hudhook
+	url = https://github.com/iconFehu/hudhook

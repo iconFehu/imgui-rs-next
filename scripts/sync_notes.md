@@ -1,0 +1,3 @@
+- imgui tag: v1.92.5
+- reason: API stable, cursor rework landed
+- next bump: when imgui 1.93 cursor API stabilizes

@@ -13,3 +13,6 @@
 [submodule "third_party/l4d2-internal-rs"]
 	path = third_party/l4d2-internal-rs
 	url = https://github.com/iconFehu/l4d2-internal-rs.git
+[submodule "third_party/cimgui"]
+	path = third_party/cimgui
+	url = https://github.com/cimgui/cimgui.git
